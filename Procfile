@@ -1,1 +1,0 @@
-worker: node EABOT.js
