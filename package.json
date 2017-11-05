@@ -8,5 +8,5 @@
   },
   "dependencies": {
     "discord.js": "11.2.0",
-    "request": "8.9.0 "
+    "request": "8.8.1"
 }
